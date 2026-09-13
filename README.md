@@ -3,16 +3,17 @@
 这里汇总仓库内已经发布的内容，可按分类逐层浏览。
 
 <!-- gitflow:articles:start -->
-共收录 **8** 篇内容，按 **1** 个分类整理。
+共收录 **9** 篇内容，按 **1** 个分类整理。
 
 ## 分类导航
 
 | 分类 | 文章数 | 索引 |
 | --- | ---: | --- |
-| 开奖与预测信息 | 8 | [查看分类文章](category-%E5%BC%80%E5%A5%96%E4%B8%8E%E9%A2%84%E6%B5%8B%E4%BF%A1%E6%81%AF.md) |
+| 开奖与预测信息 | 9 | [查看分类文章](category-%E5%BC%80%E5%A5%96%E4%B8%8E%E9%A2%84%E6%B5%8B%E4%BF%A1%E6%81%AF.md) |
 
 ## 最近发布
 
+- [PC28期号与结果核对｜2026开奖、预测与走势数据 - 聚合开奖网](https://github.com/jonsee8267/pc28-data-guide/blob/main/PC28%E6%9C%9F%E5%8F%B7%E4%B8%8E%E7%BB%93%E6%9E%9C%E6%A0%B8%E5%AF%B9%EF%BD%9C2026%E5%BC%80%E5%A5%96%E3%80%81%E9%A2%84%E6%B5%8B%E4%B8%8E%E8%B5%B0%E5%8A%BF%E6%95%B0%E6%8D%AE%20-%20%E8%81%9A%E5%90%88%E5%BC%80%E5%A5%96%E7%BD%91.md) · 开奖与预测信息 <!-- gitflow:article:c71fd3e57763eb898b54a01bc119b2b6a2f549a1dd70746b6a079c76f4b9d746 -->
 - [PC28开奖延迟怎么判断｜2026开奖、预测与走势数据 - 聚合开奖网](https://github.com/jonsee8267/pc28-data-guide/blob/main/PC28%E5%BC%80%E5%A5%96%E5%BB%B6%E8%BF%9F%E6%80%8E%E4%B9%88%E5%88%A4%E6%96%AD%EF%BD%9C2026%E5%BC%80%E5%A5%96%E3%80%81%E9%A2%84%E6%B5%8B%E4%B8%8E%E8%B5%B0%E5%8A%BF%E6%95%B0%E6%8D%AE%20-%20%E8%81%9A%E5%90%88%E5%BC%80%E5%A5%96%E7%BD%91.md) · 开奖与预测信息 <!-- gitflow:article:f2b27bc512f80336a176e0f61e8675efd1cd60c8f92698ddaebdae681ae18254 -->
 - [pc28规则｜2026开奖、预测与走势数据 - 聚合开奖网](https://github.com/jonsee8267/pc28-data-guide/blob/main/pc28%E8%A7%84%E5%88%99%EF%BD%9C2026%E5%BC%80%E5%A5%96%E3%80%81%E9%A2%84%E6%B5%8B%E4%B8%8E%E8%B5%B0%E5%8A%BF%E6%95%B0%E6%8D%AE%20-%20%E8%81%9A%E5%90%88%E5%BC%80%E5%A5%96%E7%BD%91.md) · 开奖与预测信息 <!-- gitflow:article:0a60505a185862bd612d7effe567d76cf8031ef75cc9c72de5459ba5e2ed0046 -->
 - [PC28开奖数据更新说明｜2026开奖、预测与走势数据 - 聚合开奖网](https://github.com/jonsee8267/pc28-data-guide/blob/main/PC28%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%EF%BD%9C2026%E5%BC%80%E5%A5%96%E3%80%81%E9%A2%84%E6%B5%8B%E4%B8%8E%E8%B5%B0%E5%8A%BF%E6%95%B0%E6%8D%AE%20-%20%E8%81%9A%E5%90%88%E5%BC%80%E5%A5%96%E7%BD%91.md) · 开奖与预测信息 <!-- gitflow:article:d24c6bd47fa6fdf9bb8846ea50e1a4ba09ec3c614f806e7371525f46fe6d5ad8 -->
